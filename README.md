@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/vosco-r/vosco-r.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My name is **Vosco Rash**. I am a *freelance web developer* and *writer*. Hit me up if you want to collaborate or have any questions.
+<br>  
+[r[dot]vosco[at]gmail[dot]com](mailto:r.vosco@gmail.com)  
+<br>  
+  
+I have worked on technical writing and user documentation but I have also written plays, short stories, and a novella.  
+<br>    
+<br>  
+I am currently working on setting up my portfolio of work at [vosco.me](https://vosco.me); check back often for updates.  
+<br>  
+<br>    
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vosco-r/vosco-r.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I hope that you reach out if you want to chat or grab a cup of coffee.
+<br>    
